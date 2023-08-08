@@ -4,6 +4,10 @@ Welcome to the Pong Remake project! This is a classic arcade game implemented in
 Python using the Pygame library. In this game, two players control paddles on 
 opposite sides of the screen and try to bounce the ball past their opponent's paddle.
 
+How to play:
+-To start the game, run the main.py file using Python. You can do this by navigating to 
+the directory where the file is located and running the following command:python main.py
+
 Controls:
 -Player 1 (Left Paddle):
     W: Move paddle up
