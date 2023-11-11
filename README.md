@@ -5,7 +5,10 @@ opposite sides of the screen and try to bounce the ball past their opponent's pa
 
 ## How to play:
 - To start the game, run the main.py file using Python. You can do this by navigating to 
-the directory where the file is located and running the following command:python main.py
+the directory where the file is located and running the following command:
+```
+python main.py
+```
 
 ### Controls:
 - Player 1 (Left Paddle):
@@ -17,7 +20,11 @@ the directory where the file is located and running the following command:python
 
 ## Requirements:
 - To run this game, you need to have Python 3.x and the Pygame library installed on your system. 
-You can install Pygame using pip by running the following command:pip install pygame
+You can install Pygame using pip by running the following command:
+```
+pip install pygame
+```
 
 ## Customization:
-- If you want to customize the game, you can do so by modifying the values in the settings.py file.
+- If you want to customize the game, you can do so by modifying the values in the configuration
+file (***.\pong\settings.py***).
